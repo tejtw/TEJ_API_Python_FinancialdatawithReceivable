@@ -1,0 +1,2 @@
+# TEJ_API_Python_FinancialdatawithReceivable
+財報附註的重要性：應收帳款收款天數
